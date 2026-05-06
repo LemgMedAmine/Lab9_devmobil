@@ -1,0 +1,19 @@
+<resources>
+    <style name="Theme.Projetws" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@android:color/holo_green_dark</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+    </style>
+
+    <style name="text">
+        <item name="android:textSize">17sp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+    </style>
+
+    <style name="input">
+        <item name="android:paddingBottom">20dp</item>
+    </style>
+</resources>
